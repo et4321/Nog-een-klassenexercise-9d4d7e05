@@ -14,14 +14,4 @@ foreach ($lijst as $namen) {
 }
 
 
-
-
-
-
-
-
-
-
-
-
 ?>
