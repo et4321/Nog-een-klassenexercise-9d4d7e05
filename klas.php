@@ -5,11 +5,18 @@ $namen = readline();
 $lijst = explode(" ", $namen);
 
 
+
 echo "In je klas zitten:".PHP_EOL;
 
 foreach ($lijst as $namen) {
     echo "$namen".PHP_EOL;
+    
 }
+
+
+
+
+
 
 
 
